@@ -40,6 +40,10 @@ body{
     box-sizing: border-box;
 }
 
+
+.style_switcher {
+    display: none;
+}
 /* section */
 ul{
     list-style: none;
